@@ -5,37 +5,6 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
-    <style>
-      body {
-        background-color: khaki;
-        color: navy;
-      }
-      div{
-        padding: 20px;
-      }
-      b {
-        font-family: "Georgia", Times, serif;
-        color: goldenrod;
-        -webkit-text-stroke-width: 0.3px;
-        -webkit-text-stroke-color: yellow;
-      }
-      p {
-        font-size: 25px;
-      }
-      #last {
-        font-size: 11px;
-      }
-      table {
-        border: 4px solid navy;
-      }
-      caption {
-        font-size: 40px;
-      }
-      .rating {
-        text-align: center;
-      }
-
-    </style>
   </head>
   <body>
     <div>
