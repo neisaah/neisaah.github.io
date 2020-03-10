@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
   </head>
   <body>
-    <div>
     <h1>Welcome to the semi-official <b>SPAM</b> website.</h1>
     <h2>Your one-stop shop for all your sizzle pork neeeds.</h2>
     <h3>This is also my index.</h3>
@@ -69,10 +66,6 @@
         <td class = "rating">7.625/10</td>
       </tr>
     </table>
-      
-      
-      
-    <p id = "last">i've actually never tried spam</p>
-    </div>
+    <p>i've actually never tried spam</p>
   </body>
 </html>
