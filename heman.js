@@ -77,7 +77,7 @@ function setup() {
   mainCharacter = new Character(200, 200, 60);
   backgroundImage = loadImage("https://i.pinimg.com/originals/30/d2/dd/30d2ddd6edb2ae5f890469360b449dd7.jpg");
   mainCharacterImage = loadImage("https://i.ya-webdesign.com/images/he-man-png.png");
-  monsterImage = loadImage("https://seeklogo.com/images/M/Master_of_the_Universe_-_skeletor-logo-391AB08908-seeklogo.com.png");
+  monsterImage = loadImage("https://seeklogo.com/images/M/Master_of_the_Universe_-_skeletor-logo-391AB08908-seeklogo.com.png);
   gameOverImage = loadImage("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a114c1a-32d8-4564-bc0d-86c023758304/d9cl9qe-ba952676-d42b-455f-8e34-74fe96186dc6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi83YTExNGMxYS0zMmQ4LTQ1NjQtYmMwZC04NmMwMjM3NTgzMDQvZDljbDlxZS1iYTk1MjY3Ni1kNDJiLTQ1NWYtOGUzNC03NGZlOTYxODZkYzYucG5nIn1dXX0.NYvpG_iovTY6mXF3_rVaU8QlUFJTpnQhnrQWSPA8ctw");
   
   for(var i = 0;i<5;i++){
